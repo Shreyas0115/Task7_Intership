@@ -6,7 +6,7 @@ The goal of this task was to understand and implement **Support Vector Machines 
 ---
 
 ## 🧰 Tools & Libraries Used  
-- Python 3.x  
+- Python 3 
 - NumPy  
 - Pandas  
 - Matplotlib  
