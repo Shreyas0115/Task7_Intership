@@ -15,7 +15,7 @@ The goal of this task was to understand and implement **Support Vector Machines 
 ---
 
 ## 📁 Dataset  
-**Breast Cancer Wisconsin (Diagnostic) Dataset**  
+**Breast Cancer Dataset**  
 - Features: Various cell nucleus characteristics (e.g., radius, texture, smoothness)  
 - Target: Tumor class (`Malignant` or `Benign`)
 
